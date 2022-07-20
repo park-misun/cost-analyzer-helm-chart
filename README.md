@@ -1,4 +1,4 @@
-# Kubecost helm chart
+# Kubecost helm chart1
 Helm chart for the Kubecost project, which is created to monitor and manage Kubernetes spend. Please contact team@kubecost.com or visit [kubecost.com](http://kubecost.com) for more info.
 
 To install via helm 3, run the following commands:
